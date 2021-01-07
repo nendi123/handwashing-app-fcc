@@ -10,7 +10,7 @@
     .progress-bar{
         height: 30px;
         background-color: rgb(77, 195, 55);
-        
+
     }
 </style>
 
